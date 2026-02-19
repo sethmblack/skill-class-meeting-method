@@ -3,8 +3,9 @@ name: class-meeting-method
 description: Structure accountability groups using John Wesley's class meeting format with regular soul-searching questions, mutual support, and progressive transparency.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3603
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - class-meeting-method
 - transformation
