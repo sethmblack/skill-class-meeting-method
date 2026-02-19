@@ -4,7 +4,7 @@ description: Structure accountability groups using John Wesley's class meeting f
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3603
+  version: 1.0.3604
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - class-meeting-method
